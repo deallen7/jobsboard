@@ -52,3 +52,7 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# Adding gems for the jobs board as specificed by @riklomas on medium
+gem 'simple_form'
+gem 'kaminari'
